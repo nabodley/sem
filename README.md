@@ -1,4 +1,4 @@
-![workflow](https://github.com/<nabodley>/<sem>/actions/workflows/main.yml/badge.svg)
+![workflow](https://github.com/nabodley/sem/actions/workflows/main.yml/badge.svg)
 
 
 #Natalie Bodley

@@ -1,15 +1,9 @@
 ![workflow](https://github.com/nabodley/sem/actions/workflows/main.yml/badge.svg)
 
+[![LICENSE](https://img.shields.io/github/license/nabodley/sem.svg?style=flat-square)](https://github.com/nabodley/sem/blob/master/LICENSE)
 
-#Natalie Bodley
+[![Releases](https://img.shields.io/github/release/nabodley/sem/all.svg?style=flat-square)](https://github.com/nabodley/sem/releases)
 
-#Height: 5.8'
+Natalie Bodley
 
-#St Lucia West Indies
-
-#National Dishes: Greenfigs and Saltfish
-
-#National Bird: Amazona Versicolor
-
-#Amazing
-
+Student ID: 40509159
